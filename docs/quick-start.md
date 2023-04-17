@@ -20,3 +20,8 @@ In order for this cheat to be undetected, you must change the injection setting.
 ## Install the userscript
 
 The latest version of Sketch can be found at https://sketch.sys32.dev/stable/sketch.user.js. Clicking this link will prompt you to install the userscript.
+
+# Usage
+
+1. Open Krunker Settings
+2. Click the tab with the name ✏️
