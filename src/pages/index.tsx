@@ -30,7 +30,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout description="A Krunker cheat.">
+    <Layout description="Discover Krunker Sketch's user-friendly and customizable aimbot settings for an unparalleled gaming experience. Stay ahead with regular updates, tailored gameplay, and a safe cheating environment.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
