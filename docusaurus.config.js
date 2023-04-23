@@ -70,6 +70,11 @@ const config = {
             label: "Documentation",
           },
           {
+            label: "About",
+            to: "about",
+            position: "left",
+          },
+          {
             href: "https://github.com/e9x/sketch-docs",
             label: "GitHub",
             position: "right",
@@ -83,12 +88,25 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Discord",
-                href: "https://y9x.github.io/discord",
-              },
-              {
                 label: "GitHub",
                 href: "https://github.com/e9x/sketch-docs",
+              },
+              {
+                label: "About",
+                to: "about",
+              },
+            ],
+          },
+          {
+            title: "The Gaming Gurus",
+            items: [
+              {
+                label: "GitHub",
+                href: "https://github.com/y9x/",
+              },
+              {
+                label: "Discord",
+                href: "https://y9x.github.io/discord",
               },
             ],
           },
