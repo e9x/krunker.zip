@@ -27,5 +27,4 @@ The latest version of Sketch can be found at [this link here](https://link-targe
 
 # Usage
 
-1. Open Krunker Settings
-2. Click the tab with the name ✏️
+1. Find the Sketch button below the settings icon
