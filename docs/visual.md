@@ -6,18 +6,22 @@ This documentation provides an overview of the recommended settings for the visu
 
 When enabled, the ADS (Aim Down Sights) FOV multiplier is disabled, allowing for a consistent field of view while aiming. To enable or disable this setting, toggle the switch labeled "Disable ADS FOV multiplier".
 
-## ESP
+# ESP Settings
 
-The ESP (Extra Sensory Perception) settings provide additional visual information about other players in the game.
+This documentation provides an overview of the recommended settings for the ESP (Extra Sensory Perception) features in this mod. These features include nametags, chams, boxes, and tracers.
 
-### Nametags
+## Nametags
 
 When enabled, player nametags are shown through walls, making it easier to identify and locate enemies. To enable or disable nametags, toggle the switch labeled "Nametags".
 
-### Chams
+## Chams
 
 When enabled, players become a bright color and visible through walls, making it easier to spot them. To enable or disable chams, toggle the switch labeled "Chams".
 
-### Boxes
+## Boxes
 
 When enabled, a box is displayed around players, providing an additional visual aid for spotting enemies. To enable or disable boxes, toggle the switch labeled "Boxes".
+
+## Tracers
+
+When enabled, a line is drawn between your camera and other players, allowing you to see their position more easily. To enable or disable tracers, toggle the switch labeled "Tracers".
