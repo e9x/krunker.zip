@@ -8,7 +8,7 @@ When enabled, the ADS (Aim Down Sights) FOV multiplier is disabled, allowing for
 
 # ESP Settings
 
-This documentation provides an overview of the recommended settings for the ESP (Extra Sensory Perception) features in this mod. These features include nametags, chams, boxes, and tracers.
+This documentation provides an overview of the recommended settings for the ESP (Extra Sensory Perception) features in this cheat. These features include nametags, chams, boxes, and tracers.
 
 ## Nametags
 
