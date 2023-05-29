@@ -12,7 +12,9 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <h1 className={clsx("hero__title", styles.title)}>{siteConfig.title}</h1>
+        <h1 className={clsx("hero__title", styles.title)}>
+          {siteConfig.title}
+        </h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
@@ -28,9 +30,8 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout description="Discover Krunker Sketch's user-friendly and customizable aimbot settings for an unparalleled gaming experience. Stay ahead with regular updates, tailored gameplay, and a safe cheating environment.">
+    <Layout description="Krunker Sketch Cheats: Custom Aimbot, ESP, Bhop, and More for a Winning Edge in Gaming">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
