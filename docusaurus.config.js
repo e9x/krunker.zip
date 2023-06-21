@@ -16,11 +16,6 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "e9x", // Usually your GitHub org/user name.
-  projectName: "sketch-docs", // Usually your repo name.
-
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
@@ -39,9 +34,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/e9x/sketch-docs/tree/master/",
         },
         blog: false,
         theme: {
@@ -69,41 +61,14 @@ const config = {
             position: "left",
             label: "Documentation",
           },
-          {
-            label: "About",
-            to: "about",
-            position: "left",
-          },
-          {
-            href: "https://github.com/e9x/sketch-docs",
-            label: "GitHub",
-            position: "right",
-          },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "More",
+            title: "Gaming Gurus",
             items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/e9x/sketch-docs",
-              },
-              {
-                label: "About",
-                to: "about",
-              },
-            ],
-          },
-          {
-            title: "The Gaming Gurus",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/y9x/",
-              },
               {
                 label: "Discord",
                 href: "https://y9x.github.io/discord",
