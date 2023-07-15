@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Quick Start
 
+Krunker Sketch is a cheat for Krunker. It can be installed in Krunker clients and in your browser using Tampermonkey.
+
+### Clients
+
+This is a tutorial for browsers. The guide for clients [can be found here](./client.md).
+
 ### Video Tutorials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JWS4D1-Nvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
