@@ -16,7 +16,7 @@ This is a tutorial for browsers. The guide for clients [can be found here](./cli
 
 ### Video Tutorials
 
-#### Download the [Glorp Client](https://krunker.zip/glorp/glorp-sketch-v0.8.3.zip) build for better FPS with Sketch installed
+#### Download the [Sketch Glorp Client](https://krunker.zip/glorp/glorp-sketch-v0.8.3.zip)  for better FPS with Sketch installed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_3AUcEe7eA?si=8CV80pxU0sJ6pHRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
