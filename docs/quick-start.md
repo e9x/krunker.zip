@@ -10,11 +10,9 @@ Krunker Sketch is a cheat for Krunker. It can be installed in Krunker clients an
 #### [Join the Discord](https://y9x.github.io/discord) - ask @melitha if you have any questions (eg. other forms of payment)
 #### Bookmark our Discord Server: [The Gaming Gurus - Krunker Cheats](https://y9x.github.io/discord) in case we get banned 😳
 
-### Clients
+### Video Tutorials
 
 This is a tutorial for browsers. The guide for clients [can be found here](./client.md).
-
-### Video Tutorials
 
 #### Download the [Sketch Glorp Client](https://krunker.zip/glorp/glorp-sketch-v0.8.3.zip)  for better FPS with Sketch installed.
 
