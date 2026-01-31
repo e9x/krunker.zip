@@ -26,16 +26,11 @@ Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
 ## Configure Tampermonkey
 
-In order for this cheat to be undetected, you must change the injection setting.
+In order for this cheat to consistently work, you must change the injection setting.
 
 1. Go to Tampermonkey Dashboard.
-2. Click on settings.
-3. Change Config mode to Advanced.
-4. Scroll to the bottom of the dashboard and find "Experimental". Change Inject Mode to Instant.
-
-## Install the userscript
-
-The latest version of Sketch can be found at [this link here](https://link-target.net/668584/krunker-sketch-cheat). Clicking this link will prompt you to install the userscript.
+2. Click on Settings.
+3. Scroll down to security and set Content Script API to UserScripts API Dynamic
 
 # Usage
 
