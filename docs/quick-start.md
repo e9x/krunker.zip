@@ -24,7 +24,16 @@ Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
 - [Tampermonkey](https://www.tampermonkey.net/)
 
-## Configure Tampermonkey
+## Configure Tampermonkey in Chrome
+
+In order for Tampermonkey to work correctly:
+
+1. Go to `chrome://extensions` (this works in Brave, Edge, and other Chrome browsers)
+2. Turn on Developer Mode
+3. Click on Tampermonkey
+4. Turn on Allow User Scripts
+
+## Configure Tampermonkey Injection Setting
 
 In order for this cheat to consistently work, you must change the injection setting.
 
