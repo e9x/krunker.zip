@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+    sidebar_position: 1
 ---
 
 # Quick Start
@@ -18,7 +18,11 @@ This is a tutorial for browsers. The guide for clients [can be found here](./cli
 
 Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A_3AUcEe7eA?si=8CV80pxU0sJ6pHRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_3AUcEe7eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Isv3jCk9_Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UdY9GO1w10k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### What you'll need
 
