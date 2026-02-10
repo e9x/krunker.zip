@@ -14,7 +14,7 @@ Krunker Sketch is a cheat for Krunker. It can be installed in Krunker clients an
 
 This is a tutorial for browsers. The guide for clients [can be found here](./client.md).
 
-#### Download the [Sketch Glorp Client](https://krunker.zip/glorp/glorp-sketch-v0.8.3.zip)  for better FPS with Sketch installed.
+#### Download the [Sketch Glorp Client](https://krunker.zip/glorp/glorp-sketch-v0.8.4.zip)  for better FPS with Sketch installed.
 
 Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
