@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Sketch",
-  tagline: "Dominate with Confidence",
+  tagline: "Make your .io game worth playing",
   favicon: "img/favicon.png",
 
   // Set the production url of your site here
