@@ -18,6 +18,11 @@ This is a tutorial for browsers. The guide for clients [can be found here](./cli
 
 Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
+
+<video src="/duotage.mp4" controls width="800" preload="metadata">
+Your browser don't support HTML5 video, fam.
+</video>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_3AUcEe7eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Isv3jCk9_Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
