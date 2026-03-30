@@ -19,7 +19,7 @@ This is a tutorial for browsers. The guide for clients [can be found here](./cli
 Watch the tutorial on [YouTube](https://www.youtube.com/watch?v=A_3AUcEe7eA).
 
 
-<video src="/duotage.mp4" controls width="800" preload="metadata">
+<video src="/duotage.mp4?123" controls width="800" preload="metadata">
 Your browser don't support HTML5 video, fam.
 </video>
 
