@@ -6,7 +6,7 @@
 
 Krunker Sketch is a cheat for Krunker. It can be installed in Krunker clients and in your browser using Tampermonkey.
 
-#### [BUY THE CHEAT HERE](https://shop.krunker.zip/) - CRYPTOCURRENCY - $25 LIFETIME
+#### [BUY THE CHEAT HERE](https://shop.krunker.zip/) - CRYPTOCURRENCY - $30 LIFETIME
 #### [Join the Discord](https://y9x.github.io/discord) - ask @melitha if you have any questions (eg. other forms of payment)
 #### Bookmark our Discord Server: [The Gaming Gurus - Krunker Cheats](https://y9x.github.io/discord) in case we get banned 😳
 
